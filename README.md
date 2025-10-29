@@ -4,7 +4,7 @@
 
 🚀 **[Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)** – Per-page schema editor (50+ active installs)  
 🔐 **Google Cybersecurity Certified** | **CompTIA Network+**  
-📚 Part-time teacher/consultant → I explain complex systems to non-techies
+📚 Part-time middle-school teacher / tech consultant
 
 ---
 
