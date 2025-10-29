@@ -1,16 +1,14 @@
-## Hi there 👋
+🌴 **Santa Clarita, CA** | WordPress Engineer | PHP + JS | **Available Now**
 
-<!--
-**kevingillispie/kevingillispie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **[Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)** – Per-page schema editor (50+ active installs)  
+🔐 **Google Cybersecurity Certified** | **CompTIA Network+**  
+📚 Part-time CS teacher → I explain complex systems to non-techies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨‍💻 **7+ years** shipping PHP/JS. Laid off 2024 — hunting **full-time or contract**.
+
+📍 Open to **remote / hybrid in SCV / LA**  
+✉️ [Website](https://kevingillispie.com) | [LinkedIn](https://linkedin.com/in/kevingillispie)
