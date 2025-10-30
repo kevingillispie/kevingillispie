@@ -2,13 +2,13 @@
 
 ---
 
-🚀 **[Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)** – Per-page schema editor (50+ active installs)  
+🚀 **[Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)** – Per-page JSON-LD editor (50+ active installs)  
 🔐 **Google Cybersecurity Certified** | **CompTIA Network+**  
-📚 Part-time middle-school teacher / tech consultant
+📚 Part-time middle-school teacher / tech consultant → I explain complex systems to non-techies
 
 ---
 
-👨‍💻 **7+ years** shipping PHP/JS. Laid off 2024 — hunting **full-time or contract**.
+👨‍💻 **7+ years** shipping PHP/JS (Node, Next.js). Laid off 2024 — hunting **full-time or contract**.
 
-📍 Open to **remote / hybrid in SCV / LA**  
-✉️ [Website](https://kevingillispie.com) | [LinkedIn](https://linkedin.com/in/kevingillispie)
+📍 **Remote / hybrid in SCV / LA**  
+✉️ [kevingillispie.com](https://kevingillispie.com) | [LinkedIn](https://linkedin.com/in/kevingillispie)
