@@ -11,4 +11,4 @@
 👨‍💻 **7+ years** shipping PHP/JS (Node, Next.js). Laid off 2024 — hunting **full-time or contract**.
 
 📍 **Remote / hybrid in SCV / LA**  
-✉️ [kevingillispie.com](https://kevingillispie.com) | [LinkedIn](https://linkedin.com/in/kevingillispie)
+✉️ [kevingillispie.com](https://kevingillispie.com) | [LinkedIn](https://linkedin.com/in/kevinlgillispie)
