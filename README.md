@@ -2,7 +2,7 @@
 **Browser Extensions • Security • Performance • Full-Stack PHP/JS**  
 Santa Clarita, CA • Remote-first • Available immediately
 
-<img src="https://raw.githubusercontent.com/overphish/overphish-extension-public/main/extension/assets/icons/icon128.png" width="80" align="right" alt="OverPhish">
+<img src="https://overphish.app/logo.png" width="80" align="right" alt="OverPhish logo">
 
 ### OverPhish – Real-time Phishing & Malware Blocker (2025)  
 **1M+ domains blocked • 100 % local • zero telemetry**  
