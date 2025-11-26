@@ -15,6 +15,9 @@ Santa Clarita, CA • Remote/Hybrid/RTO • Available immediately
 → The exact kind of high-performance, privacy-first security code teams pay senior/lead rates for.
 
 ### Older Hits
+
+<img src="https://schemascalpel.com/wp-content/uploads/2022/04/cropped-scalpel-scalpel-site-icon.png" width="80" align="right" alt="Schema Scalpel icon">
+
 - **[Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)** – Per-page JSON-LD editor for WordPress (50+ active installs)  
 - 7+ years shipping production PHP, modern JavaScript/Node, Next.js  
 - Google Cybersecurity Certificate • CompTIA Network+  
