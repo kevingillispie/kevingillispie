@@ -19,7 +19,7 @@ Santa Clarita, CA • Remote/Hybrid/RTO • Available immediately
 ### [Schema Scalpel](https://schemascalpel.com) – Per-page JSON-LD Schema Editor for WordPress (2022–present)  
 **50+ active installs • Still actively maintained** (Cmd/Ctrl+click to open)  
 - Lets users surgically add/edit/remove JSON-LD on individual posts/pages without touching themes  
-- Full Gutenberg block + classic TinyMCE integration  
+- Custom admin panel with Google-recommended schema templates and integration to disable Yoast/AIOSEO defaults  
 - Open source, 8k+ downloads: [github.com/kevingillispie/Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)  
 - Latest release (1.6.3): https://plugins.svn.wordpress.org/schema-scalpel/tags/1.6.3/
 
