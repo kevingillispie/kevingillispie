@@ -24,7 +24,7 @@ Santa Clarita, CA • Remote/Hybrid/RTO • Available immediately
 - Latest release (1.6.4): https://plugins.svn.wordpress.org/schema-scalpel/tags/1.6.4/
 
 ### Certifications & Experience
-- **CompTIA Security+** (SY0-701) – Passed December 2025 [Verify](https://cp.certmetrics.com/comptia/en/public/verify/credential/9f1afe009a484339830112cee2b518df)
+- **CompTIA Security+** (SY0-701) [Verify](https://cp.certmetrics.com/comptia/en/public/verify/credential/9f1afe009a484339830112cee2b518df)
 - **CompTIA Network+** [Verify](https://cp.certmetrics.com/comptia/en/public/verify/credential/QGJMZNYCV2Q1CD6F)
 - Google Cybersecurity Professional Certificate
 - Built and maintain OverPhish — a privacy-first, real-time phishing/malware blocker used by thousands
