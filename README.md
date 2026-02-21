@@ -28,7 +28,7 @@ Santa Clarita, CA • Remote/Hybrid/RTO • Available immediately
 - **CompTIA Network+** [Verify](https://cp.certmetrics.com/comptia/en/public/verify/credential/QGJMZNYCV2Q1CD6F)
 - Google Cybersecurity Professional Certificate
 - Built and maintain OverPhish — a privacy-first, real-time phishing/malware blocker used by thousands
-- 7+ years shipping production PHP, modern JavaScript/Node, Next.js, Python
+- 9+ years shipping production PHP, modern JavaScript/Node, Next.js, Python
 - Part-time middle-school teacher → I explain complex systems clearly to anyone (execs, juniors, clients, stakeholders)
 
 Actively interviewing for **cybersecurity engineer, application security, browser extension security, or full-stack roles** — particularly opportunities where I can grow in security while leveraging my development and performance expertise.
