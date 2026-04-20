@@ -17,7 +17,7 @@ Santa Clarita, CA • Remote/Hybrid/RTO • Available immediately
 <img src="https://schemascalpel.com/wp-content/uploads/2022/04/cropped-scalpel-scalpel-site-icon.png" width="80" align="right" alt="Schema Scalpel icon">
 
 ### [Schema Scalpel](https://schemascalpel.com) – Per-page JSON-LD Schema Editor for WordPress (2022–present)  
-**8500+ downloads 90+ active installs • Continuously maintained** (Cmd/Ctrl+click to open)
+**9000+ downloads 90+ active installs • Continuously maintained** (Cmd/Ctrl+click to open)
 - Lets users surgically add/edit/remove JSON-LD on individual posts/pages without touching themes
 - Custom admin panel with Google-recommended schema templates and integration to disable Yoast/AIOSEO defaults
 - Open source, 8k+ downloads: [github.com/kevingillispie/Schema-Scalpel](https://github.com/kevingillispie/Schema-Scalpel)  
