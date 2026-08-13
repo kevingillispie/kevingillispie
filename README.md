@@ -14,7 +14,7 @@ Santa Clarita, CA • Remote/Hybrid/RTO • Available immediately
 
 → Hands-on, production-grade phishing/malware defense — now backed by formal cybersecurity training.
 
-<img src="https://schemascalpel.com/wp-content/uploads/2022/04/cropped-scalpel-scalpel-site-icon.png" width="80" align="right" alt="Schema Scalpel icon">
+<img src="https://schemascalpel.com/wp-content/uploads/2022/04/scalpel-scalpel-site-icon.png" width="80" align="right" alt="Schema Scalpel icon">
 
 ### [Schema Scalpel](https://schemascalpel.com) – Per-page JSON-LD Schema Editor for WordPress (2022–present)  
 **9000+ downloads 90+ active installs • Continuously maintained** (Cmd/Ctrl+click to open)
